@@ -10,20 +10,33 @@ La línea de comandos es una aplicación en la que puedes escribir y ejecutar co
 - Crear scripts que te ayuden con tus tareas diarias.
 
 ## Comandos
-### Primer comando: la ubicación actual
+### ¿En qué carpeta estoy? (pwd)
 En la línea de comandos siempre vas a estar ubicado(a) sobre una ruta (carpeta) de tu
 sistema.
-Para conocer la ruta actual puedes escribir el comando  `pwd ` y oprimir Enter .
+Para conocer la ruta actual podemos utilizar el comando  `pwd` (print work directory)
+
 Nota: No olvides el Enter al final de cada comando para ejecutarlo!
-Por ejemplo, en mi línea de comandos (la que ves en la imagen arriba) se ve así:
-
- `silvi@DESKTOP-0O86LON MINGW64/ $ pwd  `
 
 
-## Conceptos básicos
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### Listar ficheros (ls) 
+Para ver los ficheros y carpetas del directorio actual, basta con utilizar el comando `ls` (LiSt files). Esto mostrará una lista en horizontal con todos los ficheros y carpetas encontradas.
+
+### Cambiar de carpetas (cd)
+Para movernos entre carpetas, utilizaremos el comando cd (change directory) seguido del nombre de la carpeta (movimiento relativo) o ruta completa (movimiento absoluto) a la que queremos acceder. Ten en cuenta que al escribir el nombre de la carpeta o ruta, puedes pulsar TAB y el sistema te sugiere las opciones que encajen con lo que has escrito (o autocompleta si solo hay una opción), de modo que no tendrás que escribirlo por completo.
+Por ejemplo, si quieres ir a la carpeta raíz de tu sistema debes escribir:
+`cd /`
+
+## Resumen de comandos:
+pwd: Me permite conocer la ruta actual (Donde estoy ubicado).
+ls: ver los elementos de la carpeta donde estoy ubicado.
+clear: Limpiar la pantalla.
+ls -la: Ver detalle de la información con los permisos que tienen esos recursos.
+mkdir: crear un directorio.
+rm – rf [nombre directorio]: Borrar de forma forzosa el recurso.
+cd [carpeta]: dirigirme a una carpeta deseada.
+cd .. : devolverme a una ruta o carpeta anterior.
+touch [NombreNuevoArchivo] : crear un archivo de cualquier tipo distinto a una carpeta.
+nano [NombreNuevoArchivo] : Crear un archivo.
+
 
 
