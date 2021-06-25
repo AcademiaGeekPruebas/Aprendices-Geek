@@ -4,7 +4,6 @@
 2. Descargue, instale y configure [git](https://git-scm.com/)
 3. Configurar Git con su nombre y dirección de correo electrónico usando los siguientes comandos en una terminal git Basb
  
- `git config --global user.name "FirstName LastName" `
- 
- `git config --global user.email "email@example.com" `
+    `git config --global user.name "FirstName LastName" ` <br>
+    `git config --global user.email "email@example.com" `
 
