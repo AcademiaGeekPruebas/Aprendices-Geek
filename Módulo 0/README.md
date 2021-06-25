@@ -8,3 +8,4 @@
 - :notebook: Sesión 0.2 Comando básicos de Linux
 - :notebook: Sesión 0.3 Instrucciones básicas de git
 - :notebook: Sesión 0.4 Instrucciones básicas MarkDown.
+- :notebook: Sesión 0.5 Ejercicio práctico.
