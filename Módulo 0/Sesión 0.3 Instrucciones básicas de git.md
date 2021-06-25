@@ -19,11 +19,6 @@ Lo primero que debes hacer después de que has instalado git es configurar el no
  Y asumiendo que el correo es "simon@gmail.com" utilizarías el siguiente comando: <br>
  `git config --global user.email "simon@example.com"` **Correo de la cuenta de git**
 
-## Crear perfil en Git
- **pasos:**
- 1. ...
- [ejemplo_Monica](https://github.com/M0nica)
-
 ## Trabajando en un proyecto
 El flujo de trabajo más simple con git es el siguiente:
 
@@ -48,7 +43,7 @@ El flujo de trabajo más simple con git es el siguiente:
    7. Agregar la url del repositorio por medio del siguiente comando:
       `git remote add origin <url repositorio> `
     
-   8 Entregar los cambios
+   8. Entregar los cambios
      `git push origin <Raman main> ` 
       
 ## Resumen de los comandos más importantes
