@@ -1,3 +1,10 @@
 # Primeros pasos 
 
-1. Register for an account on github.com.
+1. Regístrese para obtener una cuenta en [github.com](https://github.com/) 
+2. Descargue, instale y configure [git](https://git-scm.com/)
+3. Configurar Git con su nombre y dirección de correo electrónico usando los siguientes comandos en una terminal git Basb
+ 
+ `git config --global user.name "FirstName LastName" `
+ 
+ `git config --global user.email "email@example.com" `
+
