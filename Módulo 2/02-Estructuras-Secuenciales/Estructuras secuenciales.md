@@ -1,1 +1,1 @@
-#Estructuras secuenciales
+# Estructuras secuenciales
