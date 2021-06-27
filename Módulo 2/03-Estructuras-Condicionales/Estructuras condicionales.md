@@ -1,4 +1,4 @@
-#Estructuras condicionales
+# Estructuras condicionales
 
 Las condicionales permiten tomar decisiones y realizar acciones en función de una serie de datos. Gracias a ellas diremos qué pasos queremos que siga la aplicación en cada
 momento para que se cumpla el objetivo que deseamos alcanzar. Durante esta sesión veremos cómo controlar qué parte de nuestro código se ejecuta y cuál no. Aprenderemos 
