@@ -42,7 +42,7 @@ Los datos son una parte muy importante en un algoritmo, pues son ellos el punto 
 
 | Aritméticos      | Relacionales     | Lógicos | De asignación                  |
 | ---------------- | -------------    | ------- | ------------------------------ |
-| + Suma           | > Mayor que      | && Y    | = Asignación                   |
+| + Suma           | > Mayor que      | && Y    |  = Asignación                   |
 | - Resta          | < Menor que      | || O    | += Asignación y suma           |
 | * Multiplicación | >= Mayor o igual | ! No    | -= Asignación y Resta          |
 | / División       | <= Menir o igual |         | *= Asignación y Multiplicación |
