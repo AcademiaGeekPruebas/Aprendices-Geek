@@ -16,7 +16,9 @@ JavaScript en su día fue creado para realizar validaciones sobre datos en un fo
 
 ~~~
 Ejemplo de algoritmos 
-Un cliente llaga a una entidad bancaria para realizar una consignación, el cajero le pide el número de la cuenta y el dinero a consignar, verifica que la cuenta si existe, si la cuenta es valida se hace la consignación (al saldo le aumenta el dinero recibido) de lo contrario devuelve el dinero.
+Un cliente llaga a una entidad bancaria para realizar una consignación, el cajero le pide el número de
+la cuenta y el dinero a consignar,verifica que la cuenta si existe, si la cuenta es valida se hace la consignación
+(al saldo le aumenta el dinero recibido) de lo contrario devuelve el dinero.
 1. Inicio
 2. pedir numero de la cuenta y el dinero
 3. si la cuenta es valida realice el paso 4 de lo contrario siga en el paso 6
@@ -42,9 +44,9 @@ Los datos son una parte muy importante en un algoritmo, pues son ellos el punto 
 
 | Aritméticos      | Relacionales     | Lógicos | De asignación                  |
 | ---------------- | -------------    | ------- | ------------------------------ |
-| + Suma           | > Mayor que      | && Y    |  = Asignación                   |
-| - Resta          | < Menor que      | || O    | += Asignación y suma           |
-| * Multiplicación | >= Mayor o igual | ! No    | -= Asignación y Resta          |
+| + Suma           | > Mayor que      | && Y    |  = Asignación                  |
+| - Resta          | < Menor que      | ! No    | -= Asignación y Resta          |
+| * Multiplicación | >= Mayor o igual |         | += Asignación y Suma           |
 | / División       | <= Menir o igual |         | *= Asignación y Multiplicación |
 | % Modulo         | != Diferente     |         | /= Asignación y División       |
 | ++ Incremento    | == Igual         |         | %= Asignación y Modulo         |
