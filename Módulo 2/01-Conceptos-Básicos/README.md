@@ -1,5 +1,5 @@
 
-# Conceptos básicos de programación con JavaScript
+# Conceptos básicos de programación
 
 ## ¿Que es un algoritmo?
 >Un algoritmo es una secuencia de pasos lógicos y ordenados con las cuales le damos solución a un problema determinado.
