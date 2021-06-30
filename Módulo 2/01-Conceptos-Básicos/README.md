@@ -55,7 +55,7 @@ Los datos son una parte muy importante en un algoritmo, pues son ellos el punto 
 ### Ejemplos
 EJERCICIO
 Dadas las variables de tipo int con valores A = 5, B = 3, C = -12 indicar si la evaluación de estas expresiones daría como resultado verdadero o falso:
-a) A > 3 verdadero      b) A > C  verdadero           c) A < C Falso
+a) A > 3 verdadero     b) A > C  verdadero          c) A < C Falso
 
 
 ## Comando básicos a usar en JavaScript
