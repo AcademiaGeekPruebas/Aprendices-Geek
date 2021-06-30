@@ -47,4 +47,8 @@ Leer a,b
 Donde "a" y "b" son las variables que recibirán los valores
 
 ### Escritura
+ Consiste en mandar por un dispositivo de salida (p.ej monitos o impresora) un resultado o mensaje. Este proceso se representa en un pseudocódigo de la siguiente manera:
  
+ Escriba "El resultado es " , R
+ 
+ Donde "El resultado es: " es un mensaje que se desea aparezca y R es una variable que contiene un valor.
