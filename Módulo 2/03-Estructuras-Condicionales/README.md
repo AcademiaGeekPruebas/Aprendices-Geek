@@ -1,12 +1,14 @@
 # Estructuras condicionales
 
-Las condicionales permiten tomar decisiones y realizar acciones en función de una serie de datos. Gracias a ellas diremos qué pasos queremos que siga la aplicación en cada
-momento para que se cumpla el objetivo que deseamos alcanzar. Durante esta sesión veremos cómo controlar qué parte de nuestro código se ejecuta y cuál no. Aprenderemos 
-a dar instrucciones a nuestros aplicaciones para realizar acciones en función de datos. Estableciendo normas al estilo si sucede esto haz esto otro y sino haz una orden
-alternativa. El condicional es una de las estructuras de control más básicas e importantes de la programación.
+Las estructuras condicionales comparan una variable contra otros(s) valor(es), para que en base al resultado de esta comparación, se siga un curso de acción dentro del programa. Cabe mencionar que la comparación se puede hacer contra otra variable o contra una constante, según se necesite.
 
+Las estructuras condicionales comparan una variable con otra u otros valores, para que con base al resultado de la comparación, se siga el curso de una acción dentro de un programa. Existen 3 tipos de condiciones:
+Simples
+Dobles
+Múltiples
+El resultado de la comparación en una estructura condicional tiene como resultado un valor lógico(true, false)
 
-## ¿Para qué sirve lo que vamos a ver en esta sesión?
+## ¿Para qué sirve?
 Los booleanos sirven para tener datos que representen verdadero o falso, como por ejemplo saber si una condición se cumple o no. Los condicionales se basan en condiciones, es decir, la base fundamental para que funcionen correctamente son los booleanos y sin ellos no serían viables.
 La mejor forma de explicar para qué sirven las condicionales es explicar cómo sería la programación sin ellas. En un mundo sin estos tendríamos que escribir en nuestro código todos los pasos a llevar a cabo, uno a uno y no podríamos ejecutar un código u otro en función de una serie de datos. Por ejemplo no podríamos comprobar si un formulario tiene todos los campos rellenos para enviarlo; ni comprobar si hemos hecho scroll hasta una sección concreta de nuestra página para mostrar un elemento o activar una animación. Es decir, no habría distintas vías, sólo un posible camino, cosa que haría prácticamente imposible ejecutar un código realmente útil.
 
@@ -21,8 +23,3 @@ Mostrar el símbolo de usuario verificado en Twitter si la cuenta está verifica
 Mostrar una película en favoritos si está marcada como favorita
 
 
-Las estructuras condicionales comparan una variable con otra u otros valores, para que con base al resultado de la comparación, se siga el curso de una acción dentro de un programa. Existen 3 tipos de condiciones:
-Simples
-Dobles
-Múltiples
-El resultado de la comparación en una estructura condicional tiene como resultado un valor lógico(true, false)
