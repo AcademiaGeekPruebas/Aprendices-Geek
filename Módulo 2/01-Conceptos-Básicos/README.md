@@ -1,7 +1,7 @@
 
 # Conceptos básicos de programación
 
-## ¿Que es un algoritmo?
+## ¿Qué es un algoritmo?
 >Un algoritmo es una secuencia de pasos lógicos y ordenados con las cuales le damos solución a un problema determinado.
 
 ***Las características de los algoritmos***
