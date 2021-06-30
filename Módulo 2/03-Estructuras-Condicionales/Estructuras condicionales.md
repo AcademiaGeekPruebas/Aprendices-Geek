@@ -19,3 +19,10 @@ Los condicionales se usan para realizar o no un código en función de una condi
 Mostrar un mensaje de error si falta un campo obligatorio por rellenar en un formulario
 Mostrar el símbolo de usuario verificado en Twitter si la cuenta está verificada
 Mostrar una película en favoritos si está marcada como favorita
+
+
+Las estructuras condicionales comparan una variable con otra u otros valores, para que con base al resultado de la comparación, se siga el curso de una acción dentro de un programa. Existen 3 tipos de condiciones:
+Simples
+Dobles
+Múltiples
+El resultado de la comparación en una estructura condicional tiene como resultado un valor lógico(true, false)
