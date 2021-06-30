@@ -1,4 +1,4 @@
-# Estrcuturas Algorítmicas
+# Estructuras Algorítmicas
 
 Las estructuras de operación de programas son un grupo de forma de trabajo, que permiten, mediante la manipulación de variables, realizar ciertos procesos específicos que nos lleven a la solución de problemas. Estas estructuras se clasifican de acuerdo a su complejidad en:
 
