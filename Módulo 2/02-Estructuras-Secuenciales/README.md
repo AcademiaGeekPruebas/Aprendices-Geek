@@ -53,4 +53,4 @@ Donde "a" y "b" son las variables que recibirán los valores
  
  Donde "El resultado es: " es un mensaje que se desea aparezca y R es una variable que contiene un valor.
  
- #Ejercicio guía https://res.cloudinary.com/duzf4vfki/video/upload/v1625601683/samples/Subir_a_github_Ejercicio_estructura_secuencial_rebjld.mp4
+ # Ejercicio guía https://res.cloudinary.com/duzf4vfki/video/upload/v1625601683/samples/Subir_a_github_Ejercicio_estructura_secuencial_rebjld.mp4
