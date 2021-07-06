@@ -1,5 +1,4 @@
 ## Ejercicio 1
 
-Una persona necesita calcular su salario semanal, el cual se obtiene de la siguiente manera:
-Si trabaja 40 horas o menos se le paga a $16.000 por hora
-Si trabaja más de 40 horas se le paga $16.000 por cada una de las primeras 40 horas y $20.000 por cada hora extra
+Un hombre desea saber cuánto dinero se genera por concepto de intereses sobre la cantidad que tiene en inversión en el banco.
+El decidirá reinvertir los intereses siempre y cuando estos excedan a $7000, y en ese caso desea saber cuánto dinero tendrá finalmnte en su cuenta.
