@@ -41,20 +41,20 @@ Voy por la vuelta 19
 ### Bucle while - Hacer mientras
 Es una estructura que repetirá un proceso durante "N" veces, donde "N" puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición ya no se cumple, entonces ya no se ejecuta el proceso. La forma de esta estructura es la siguiente:
 
-  Hacer mientras <condición>
-      Acción 1
-      Acción 2
-      .
-      .
-      Acción N
+    Hacer mientras <condición>
+        Acción 1
+        Acción 2
+        .
+        .
+        Acción N
       
 ### Bucle do while - Repetir hasta
 Esta es una estructura similar en algunas características al "Hacer mientras". Repite un proceso una cantidad de veces, pero a diferencia del "Hacer mientras", el "Repetir hasta" lo hace hasta que la condición se cumple y no mientras, como en el "Hacer mientras". Por otra parte, esta estructura permite realizar un proceso cuando mnos una vez, ya que la condición se evalúa al final del proceso, mientras que en el "Hacer mientras" puede ser que nunca llegue a entrar si la condición no se cumple desde un principio. La forma de la estructura es la siguiente:
 
-   Repetir
-      Acción 1
-      Acción 2
-      .
-      .
-      Acción N
-   Hasta <condición>
+     Repetir
+          Acción 1
+          Acción 2
+          .
+          .
+          Acción N
+     Hasta <condición>
