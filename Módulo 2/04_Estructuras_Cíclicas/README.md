@@ -12,9 +12,9 @@ actualización será la operación que se realizará al final de cada iteración
 al final definimos un bloque de código entre llaves { } que se va a ejecutar si se cumple la condición
 
 
-for (let i = 0; i < 20; i++) {
-  console.log('Me encantan los bucles');
-}
+        for (let i = 0; i < 20; i++) {
+              console.log('Me encantan los bucles');
+        }
 
 En este ejemplo de código, hacemos aparecer 20 veces en la consola el texto Me encantan los bucles. Funciona de la siguiente forma:
 Se ejecuta el código de inicialización (let i = 0)
@@ -27,16 +27,16 @@ Cuando la variable i llega al valor de 20, la condición ya no se cumple (20 no 
 
 Otro aspecto interesante de los bucles for es que dentro del bloque de código que se repite (el que va entre llaves { }) podemos usar la variable i. Por ejemplo:
 
-for (let i = 0; i < 20; i++) {
-    console.log('Voy por la vuelta ' + i);
-  }
+        for (let i = 0; i < 20; i++) {
+                console.log('Voy por la vuelta ' + i);
+         }
   
-Este ejemplo hará aparecer 20 veces, en la consola, el texto:
-Voy por la vuelta 0
-Voy por la vuelta 1
-Voy por la vuelta 2
-...
-Voy por la vuelta 19
+          Este ejemplo hará aparecer 20 veces, en la consola, el texto:
+          Voy por la vuelta 0
+          Voy por la vuelta 1
+          Voy por la vuelta 2
+          ...
+          Voy por la vuelta 19
 
 ### Bucle while - Hacer mientras
 Es una estructura que repetirá un proceso durante "N" veces, donde "N" puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición ya no se cumple, entonces ya no se ejecuta el proceso. La forma de esta estructura es la siguiente:
