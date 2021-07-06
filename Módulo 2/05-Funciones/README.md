@@ -12,6 +12,6 @@ Las funciones son una forma de agrupar código que vamos a usar varias veces per
 
 Por ejemplo, en los siguientes casos:
 
-      -Si tenemos un código que convierte la primera letra de un texto a mayúsculas y vamos a usar ese código en varias partes de nuestro programa, creamos una función y              ejecutamos la función en cada uno de los sitios necesarios
+      -Si tenemos un código que convierte la primera letra de un texto a mayúsculas y vamos a usar ese código en varias partes de nuestro programa, creamos una función y        ejecutamos la función en cada uno de los sitios necesarios
       -Si queremos añadir varias clases a diferentes elementos HTML en función de la medida de la página web podemos crear una función y utilizarla en cada uno de ellos
-      -Si queremos enviar datos a un servidor, la mayoría de las veces es muy parecido y sólo cambian unos datos. Podríamos hacer una función y reutilizarla y usar distintos           datos en cada una mediante los parámetros de la función (que veremos durante esta sesión)
+      -Si queremos enviar datos a un servidor, la mayoría de las veces es muy parecido y sólo cambian unos datos. Podríamos hacer una función y reutilizarla y usar distintos   datos en cada una mediante los parámetros de la función (que veremos durante esta sesión)
